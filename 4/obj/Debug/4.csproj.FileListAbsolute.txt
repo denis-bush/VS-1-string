@@ -1,0 +1,21 @@
+E:\work\C#\4\4\bin\Debug\4.exe.config
+E:\work\C#\4\4\bin\Debug\4.exe
+E:\work\C#\4\4\bin\Debug\4.pdb
+E:\work\C#\4\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+E:\work\C#\4\4\obj\Debug\_4.Form1.resources
+E:\work\C#\4\4\obj\Debug\_4.Properties.Resources.resources
+E:\work\C#\4\4\obj\Debug\4.csproj.GenerateResource.Cache
+E:\work\C#\4\4\obj\Debug\4.exe
+E:\work\C#\4\4\obj\Debug\4.pdb
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\4\4\4\bin\Debug\4.exe.config
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\4\4\4\obj\Debug\4.exe
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\4\4\4\obj\Debug\4.pdb
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\4\4\4\bin\Debug\4.exe
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\4\4\4\bin\Debug\4.pdb
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\4\4\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\4\4\4\obj\Debug\_4.Form1.resources
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\4\4\4\obj\Debug\_4.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\4\4\4\obj\Debug\4.csproj.GenerateResource.Cache
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\ind 4\4\4\bin\Debug\4.exe.config
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\ind 4\4\4\obj\Debug\4.exe
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\ind 4\4\4\obj\Debug\4.pdb
